@@ -37,10 +37,9 @@ class JeissonPineda:
 
     def descripcion(self):
         return """
-        Tecnólogo en Sistemas con experiencia en soporte TI, desarrollo backend
-        y automatización de procesos. Me apasiona la optimización y la seguridad
-        informática. Destaco por el trabajo en equipo, la toma de decisiones ágil
-        y el buen manejo de la presión.
+        Apasionado por el desarrollo backend, la automatización de procesos y la seguridad 
+        informática. Con experiencia en soporte IT y un enfoque constante en la optimización. 
+        Me destaco por trabajar bien en equipo, tomar decisiones ágiles y mantener la calma bajo presión
         """
 
     def actualmente(self):
