@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Badges de contacto -->
-[![Gmail](https://img.shields.io/badge/yeissonpineda7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeissonpineda7@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=yeissonpineda7@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeisson-pineda-bravo-95b75720b)
 [![Location](https://img.shields.io/badge/Cartagena%2C%20Colombia-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
