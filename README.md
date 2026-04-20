@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jeisson%20Pineda%20Bravo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Tecnólogo%20en%20Sistemas%20|%20Backend%20Developer%20|%20IT%20Security&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jeisson%20Pineda%20Bravo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20|%20IT%20Security&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -18,7 +18,7 @@
 <br/>
 
 <!-- Stats cards row -->
-![Profile Views](https://komarev.com/ghpvc/?username=jeissonpineda&color=7c3aed&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=Yeisson-PB&color=7c3aed&style=for-the-badge&label=VISITAS+AL+PERFIL)
 
 </div>
 
@@ -81,12 +81,12 @@ print(me.descripcion())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeissonpineda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeissonpineda&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yeisson-PB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeisson-PB&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeissonpineda&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yeisson-PB&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -94,7 +94,7 @@ print(me.descripcion())
 ## 🐍 Snake de contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jeissonpineda/jeissonpineda/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yeisson-PB/Yeisson-PB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
