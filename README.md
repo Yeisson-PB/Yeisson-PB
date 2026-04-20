@@ -12,7 +12,7 @@
 
 <!-- Badges de contacto -->
 [![Gmail](https://img.shields.io/badge/yeissonpineda7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yeissonpineda7@gmail.com)
-[![Phone](https://img.shields.io/badge/304%20277%206592-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573042776592)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeisson-pineda-bravo-95b75720b)
 [![Location](https://img.shields.io/badge/Cartagena%2C%20Colombia-0078D4?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
@@ -81,49 +81,6 @@ print(me.descripcion())
 
 ---
 
-## 💼 Experiencia Laboral
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏫 Monitor Administrativo</h3>
-      <b>Fundación Universitaria Antonio de Arévalo (UNITECNAR)</b><br/>
-      <i>📅 Jun 2023 – Jun 2025</i>
-      <ul>
-        <li>🖥️ Administración de plataformas LMS educativas (Moodle)</li>
-        <li>🤖 Automatización de procesos académicos y administrativos con Python</li>
-        <li>📊 Análisis de datos y generación de reportes de estudiantes</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏥 Aprendiz Administrativo</h3>
-      <b>IPS Cuidado Seguro en Casa</b><br/>
-      <i>📅 Jun – Dic 2025</i>
-      <ul>
-        <li>🔧 Soporte técnico y gestión de incidencias</li>
-        <li>⚡ Desarrollo de sistema automatizado de cotizaciones con n8n</li>
-        <li>☁️ Administración de plataformas de tickets, inventario tecnológico y seguridad en la nube (Acronis Cloud)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🎓 Educación & Certificaciones
-
-<div align="center">
-
-| 🏛️ Institución | 📖 Título | 📅 Año |
-|---|---|---|
-| Fundación Universitaria Antonio de Arévalo – UNITECNAR | Tecnología en Sistemas | 2025 |
-| IE Jorge García Usta | Bachiller | 2020 |
-| SENA | Certificado – Controles y Seguridad Informática *(40h)* | Marzo 2026 |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -133,14 +90,6 @@ print(me.descripcion())
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeissonpineda&theme=tokyonight&border_radius=12" alt="GitHub Streak"/>
-</div>
-
----
-
-## 🏆 Trofeos GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeissonpineda&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 ---
