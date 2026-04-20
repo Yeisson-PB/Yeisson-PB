@@ -94,7 +94,7 @@ print(me.descripcion())
 ## 🐍 Snake de contribuciones
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yeisson-PB/Yeisson-PB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Yeisson-PB/Yeisson-PB/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
