@@ -74,9 +74,6 @@ print(me.descripcion())
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00B388?style=for-the-badge&logo=tenable&logoColor=white)
 
-### 📚 Plataformas LMS
-![Moodle](https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white)
-
 </div>
 
 ---
