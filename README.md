@@ -45,7 +45,7 @@ class JeissonPineda:
         """
 
     def actualmente(self):
-        return "🔭 Buscando nuevos retos en desarrollo backend y automatización"
+        return "🔭 Buscando nuevos retos en desarrollo backend, automatización y especializandome en seguridad informatica"
 
 me = JeissonPineda()
 print(me.descripcion())
