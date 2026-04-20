@@ -30,8 +30,7 @@
 class JeissonPineda:
     def __init__(self):
         self.nombre     = "Jeisson Pineda Bravo"
-        self.titulo     = "Tecnólogo en Sistemas"
-        self.ubicacion  = "Ciudad de Bicentenario, Cartagena, Colombia"
+        self.ubicacion  = "Cartagena, Colombia"
         self.email      = "yeissonpineda7@gmail.com"
         self.enfoque    = ["Backend Development", "Automatización", "Seguridad Informática"]
         self.idiomas    = {"Español": "Nativo", "Inglés": "B1"}
